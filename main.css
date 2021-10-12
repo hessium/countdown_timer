@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: url("happy.jpg") center center / cover no-repeat;
+  color: #ff2400;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: Festive, Helvetica, sans-serif;
+  align-items: center;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  margin-top: 11rem;
+}
+
+span {
+  font-size: 20px;
+}
+
+.countdown-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.time-text {
+  font-weight: bold;
+  font-size: 6rem;
+  line-height: 1;
+  margin: 1rem 2rem;
+}
+
+.countdown-el {
+  text-align: center;
+}
+
+.countdown-el span {
+  font-size: 1.3rem;
+}
+
+  
