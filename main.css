@@ -8,7 +8,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  font-family: Festive, Helvetica, sans-serif;
+  font-family: Permanent Marker, Helvetica, sans-serif;
   align-items: center;
   margin: 0;
   text-align: center;
@@ -35,6 +35,7 @@ span {
   line-height: 1;
   margin: 1rem 2rem;
   width: 100px;
+  font-family: Varela Round, Helvetica, sans-serif;
 }
 
 .countdown-el {
