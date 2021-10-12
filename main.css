@@ -4,7 +4,7 @@
 
 body {
   background: url("happy.jpg") center center / cover no-repeat;
-  color: #ff2400;
+  color: #ccff00;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
